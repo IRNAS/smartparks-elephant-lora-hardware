@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MAIN.PcbDoc]
+   Generated File[SmartParks Elephant LoRa_V1.TXT]
+   Generated File[SmartParks Elephant LoRa_V1.DRL]
+   Generated File[SmartParks Elephant LoRa_V1.LDP]
+   Generated File[SmartParks Elephant LoRa_V1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:12:40 PM On 07/06/2019
